@@ -1,0 +1,32 @@
+#EntityStatePDU
+TimeStamp(sec),0.000000
+EntityID,1:3001:59
+AggregateID,1:3001:65
+EntityType,3:1:225:1:116:1:0
+Force,Friendly
+Location(GeoCentric X-Y-Z in (m)),6378150.000000, -91.424800, -9.363640
+Location(Geodetic Lat-Lon-Alt in (deg)),-0.000085, -0.000821, 13.000662
+Velocity(m/s),-1.096210, 4.027090, -0.009158
+Acceleration(m/s2),0.000000, 0.000000, 0.000000
+Orientation(Geocentric Psi-Theta-Phi in (rad)),1.570780, 0.097063, -1.570790
+Orientation(Geodetic Heading-Pitch-Roll in (deg),95.561289, 0.000120, 0.000286
+Primary Weapon,
+Secondary Weapon,
+PaintScheme,Uniform Color
+Health,No Injury
+Compliance Status,Not Specified
+Signal Smoke in Use,No
+Flash Lights On,No
+Signal Mirror in Use,No
+IR Strobe On,No
+IR Illuminator On,No
+Life Form Posture,Upright, Running
+Is Frozen,No
+Mounted/Hoisted Status,Yes
+State,Active
+Weapon/Implement 1,Deployed/Active
+Weapon/Implement 2,Not Present
+Camouflage Type,Desert Camouflage
+Concealed Stationary,Not Concealed
+Concealed Movement,Open Movement
+Marking,AR 1
